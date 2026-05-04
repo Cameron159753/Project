@@ -6,7 +6,7 @@
 
 body {
     font-family: "Segoe UI", sans-serif;
-    color: #5a4634;
+    color: #000000;
     background-color: #f8f3f1;
 }
 /************************************************************** HOME **************************************************************/
@@ -47,7 +47,7 @@ body {
 
 .main-nav a {
     text-decoration: none;
-    color: #5a4634;
+    color: #ffffff;
     font-weight: 500;
 }
 
@@ -57,7 +57,7 @@ body {
         rgba(243, 222, 222, 2.0),
         rgba(243, 222, 222, 0.5)
     ),
-    url("/pictures/cupcakes.jpg") no-repeat center/cover;
+    url("/pictures/landingpage.PNG") no-repeat center/cover;
 
     min-height: 90vh;
     display: flex;
